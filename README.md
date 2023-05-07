@@ -1,1 +1,2 @@
-
+# TaskMinder
+A task management application developed using vanilla JavaScript on the frontend, Node.js and Express on the backend, and PostgreSQL for the database. This application allows users to efficiently track and organize their personal tasks.
